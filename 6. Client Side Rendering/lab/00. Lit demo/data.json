@@ -1,0 +1,20 @@
+[
+  {
+    "title": "First Article",
+    "author": "John Smith",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A aliquid aspernatur assumenda autem commodi consequatur consequuntur deleniti deserunt dicta distinctio eos est, eum excepturi expedita facilis impedit ipsa iste iusto laborum laudantium magni maiores maxime ",
+    "color": "red"
+  },
+  {
+    "title": "Second Article",
+    "author": "John Thomas",
+    "content": "minus nobis omnis optio placeat quas quidem quis quos unde velit voluptas voluptatibus. Architecto, dolore quas. Autem debitis ipsum iste maxime non placeat quia temporibus ullam. A asperiores, consectetur consequuntur cum deserunt quisquam tenetur unde vitae voluptate. ",
+    "color": "green"
+  },
+  {
+    "title": "Third Article",
+    "author": "Peter Smith",
+    "content": "Ab adipisci alias amet assumenda autem beatae consequuntur corporis cumque dicta dignissimos eveniet expedita explicabo facilis id labore mollitia nam natus necessitatibus neque non, perferendis quod reprehenderit ut. ",
+    "color": "blue"
+  }
+]

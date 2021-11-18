@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, serif;
+    width: 980px;
+    margin: auto;
+    font-size: 24px;
+}
+
+article {
+    margin: 32px 0;
+    box-shadow: 0 0 15px 5px #999;
+    padding: 32px;
+    border-radius: 5px;
+}
+
+article footer {
+    color: #999;
+}
+
+#renderBtn {
+    box-shadow: 0 0 15px 5px #999;
+    border-width: 3px;
+    border-color: white;
+    background: #0a79df;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 30px;
+    width: 200px;
+    height: 60px;
+    margin: auto;
+}
+
+#renderBtn:active {
+    background: white;
+    color: #0a79df;
+}
+
+.page-footer {
+    color: white;
+}
+
+.red {
+    background-color: #a56167;
+}
+
+.green {
+    background-color: #60a565;
+}
+
+.blue {
+    background-color: #4a6da5;
+}
