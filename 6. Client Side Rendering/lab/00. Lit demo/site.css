@@ -16,6 +16,24 @@ article footer {
     color: #999;
 }
 
+textarea {
+    resize: none;
+    width: 90%;
+    display: block;
+    border-radius: 5px;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+#submitBtn {
+    height: 40px;
+    margin-top: 10px;
+    background: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
 #renderBtn {
     box-shadow: 0 0 15px 5px #999;
     border-width: 3px;
